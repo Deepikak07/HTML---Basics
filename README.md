@@ -1,2 +1,2 @@
 # HTML---Basics
-Basics of HTML for Begginners
+Basics of HTML for Beginners
